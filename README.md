@@ -1,2 +1,2 @@
 # dartFundamentals
-Fundamentals for learning data cause I miss it everytime
+Fundamentals for learning dart cause I miss it everytime
