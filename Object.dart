@@ -46,7 +46,7 @@ void main() {
   p1.crisp = changeOrder(changeCrisp, changeWing);
   p3.crisp = changeOrder(changeCrisp, changeWing);
 
-  print('P1 order has ${p1.crisp} crisp and ${p1.wing} wing');
-  print('P2 order has ${p2.crisp} crisp and ${p2.wing} wing');
-  print('P3 order has ${p2.crisp} crisp and ${p2.wing} wing');
+  print('P1 order has ${p1.crisp} crisps and ${p1.wing} wings');
+  print('P2 order has ${p2.crisp} crisps and ${p2.wing} wings');
+  print('P3 order has ${p2.crisp} crisps and ${p2.wing} wings');
 }
